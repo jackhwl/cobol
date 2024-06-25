@@ -1,1 +1,1 @@
-# cobol
+# cobol funcdamentals
