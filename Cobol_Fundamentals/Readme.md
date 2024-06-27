@@ -8,3 +8,6 @@
   - Demo: Creating Your First COBOL Program
   - COBOL Documentation
   - Conclusion
+3. Working with Data
+  - Introduction 
+  - Creating a Field or Variable
