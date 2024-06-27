@@ -11,3 +11,4 @@
 3. Working with Data
   - Introduction 
   - Creating a Field or Variable
+  - Understanding the MOVE statement
