@@ -17,3 +17,5 @@
   - Working with Intrinsic Functions
   - Using the COMP Statement
   - Demo: Profit and Loss Statement
+4. Understand Conditionals and Loops
+  - Introduction
