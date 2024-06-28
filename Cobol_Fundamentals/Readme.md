@@ -16,3 +16,4 @@
   - Using the COMPUTE Statement
   - Working with Intrinsic Functions
   - Using the COMP Statement
+  - Demo: Profit and Loss Statement
