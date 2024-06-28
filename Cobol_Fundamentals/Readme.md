@@ -14,3 +14,4 @@
   - Understanding the MOVE statement
   - Learning About Math Statement
   - Using the COMPUTE Statement
+  - Working with Intrinsic Functions
