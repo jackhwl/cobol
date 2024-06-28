@@ -15,3 +15,4 @@
   - Learning About Math Statement
   - Using the COMPUTE Statement
   - Working with Intrinsic Functions
+  - Using the COMP Statement
