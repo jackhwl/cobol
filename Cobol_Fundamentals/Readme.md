@@ -19,3 +19,4 @@
   - Demo: Profit and Loss Statement
 4. Understand Conditionals and Loops
   - Introduction
+  - Structured Programming
