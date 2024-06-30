@@ -20,3 +20,4 @@
 4. Understand Conditionals and Loops
   - Introduction
   - Structured Programming
+  - Using Conditionals
